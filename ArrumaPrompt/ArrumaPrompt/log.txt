@@ -1,0 +1,5 @@
+Iniciando processamento de quadros...
+ Desenhe o 
+Não foi possível criar o quadro. Estilo: None, Personagens: [], Descrição: None
+1
+Desenhe o 
