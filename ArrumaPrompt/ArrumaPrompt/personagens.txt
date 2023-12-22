@@ -1,0 +1,4 @@
+Ana: Líder Cooperativista. Mulher de aproximadamente 40 anos, cabelos curtos e castanhos, vestindo roupas formais, mas práticas, como uma camisa branca e calça de tecido azul. Ela carrega um tablet, simbolizando sua conexão com a tecnologia e a economia colaborativa. Seed: #AnaLíder.
+Ricardo: Empresário Bilionário. Homem de 50 anos, cabelos grisalhos penteados para trás, veste um terno elegante e carrega uma pasta de couro. Sua expressão é séria, representando o estereótipo do capitalista tradicional. Seed: #RicardoEmpresário.
+Luísa: Agricultora da Cooperativa. Mulher de 30 anos, com cabelos longos presos em um rabo de cavalo. Usa roupas de trabalho confortáveis, como uma camisa de flanela e jeans, e está sempre com um chapéu de palha. Seed: #LuisaAgricultora.
+Carlos: Artesão. Homem de 35 anos, com barba curta e cabelos ondulados. Veste uma camisa simples e um avental de lona com manchas de tinta, indicando seu trabalho artesanal. Seed: #CarlosArtesao.
