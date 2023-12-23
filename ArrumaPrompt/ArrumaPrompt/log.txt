@@ -1,5 +1,24 @@
 Iniciando processamento de quadros...
- Desenhe o 
-Não foi possível criar o quadro. Estilo: None, Personagens: [], Descrição: None
-1
-Desenhe o 
+Quadro 1: 
+Desenhe o Quadro 1 no estilo Moderno Contemporâneo
+Estilo encontrado: Moderno Contemporâneo
+Cenário: Céu noturno sobre Gaza com mísseis e fumaça de explosões.
+Descrição/Cenário encontrado: Céu noturno sobre Gaza com mísseis e fumaça de explosões.
+Personagens: Não há personagens neste quadro.
+Personagens do quadro: 
+Quadro 1 processado com sucesso.
+Quadro 2: Desenhe o Quadro 2 no estilo Moderno Contemporâneo
+Estilo encontrado: Moderno Contemporâneo
+Cenário: Interior de escombros de um prédio abandonado.
+Descrição/Cenário encontrado: Interior de escombros de um prédio abandonado.
+Personagens: Maria, em trabalho de parto, e João ao seu lado.
+Personagens do quadro: Maria
+Quadro 2 processado com sucesso.
+Quadro 3: Desenhe o Quadro 3 no estilo Moderno Contemporâneo
+Estilo encontrado: Moderno Contemporâneo
+Cenário: Interior escuro, iluminado por uma fraca luz de celular.
+Descrição/Cenário encontrado: Interior escuro, iluminado por uma fraca luz de celular.
+Personagens: João e Maria, com João segurando um celular para iluminar.
+Personagens do quadro: 
+Quadro 3 processado com sucesso.
+Gerando saída dos quadros processados...

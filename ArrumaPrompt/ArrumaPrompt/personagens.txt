@@ -1,4 +1,3 @@
-Ana: Mulher de 35 anos, cabelos castanhos médios e ondulados, olhos verdes, usa óculos de armação fina. Vestida com traje formal de negócios, blazer azul e calça social, sempre carrega uma pasta cheia de gráficos e relatórios. Seed: 12345.
-Carlos: Homem de 40 anos, cabelo curto preto e barba por fazer. Veste camisa polo e calça jeans, com um crachá de cooperativa. Tem uma postura confiante e sorriso amigável. Seed: 23456.
-Rita: Mulher de 50 anos, cabelos grisalhos presos em um coque, usa roupas simples de trabalho no campo, botas e chapéu de palha. Rosto marcado pelo sol, mas com expressão gentil. Seed: 34567.
-Luiz: Homem de 30 anos, cabelos castanhos longos presos em um rabo de cavalo, usa roupas confortáveis e um avental cheio de manchas de tinta. Sempre com um sorriso criativo no rosto. Seed: 45678.
+João: Homem palestino, cerca de 40 anos, cabelos curtos e escuros, barbado. Veste uma camisa desbotada e calças simples. Tem uma expressão preocupada, mas determinada. Seed: 12345.
+Maria: Mulher palestina, grávida, com cerca de 21 anos. Cabelos longos e escuros, amarrados para trás. Veste um vestido simples, um pouco sujo. Mostra sinais de esforço e dor devido ao trabalho de parto. Seed: 23456.
+Soldado: Jovem Israelense soldado, cerca de 25 anos, cabelo curto e loiro. Veste uniforme militar completo, incluindo colete e capacete. Inicialmente, sua expressão é séria e concentrada, mas muda para uma de compaixão ao ver Maria. Seed: 34567.
