@@ -51,15 +51,27 @@ def processar_quadros(entrada_quadros, personagens):
         log("Nenhum quadro encontrado no arquivo.")
         return quadros
 
-    quadros_texto = entrada_quadros.split("\n\n")
-    numero_quadro = 1  # Contador para o número do quadro
-    for quadro_texto in quadros_texto:
-        linhas = quadro_texto.splitlines()
+    # Divide o texto em quadros individuais
+    quadros_texto = [q for q in entrada_quadros.split("Quadro ") if q.strip()]
+
+def processar_quadros(entrada_quadros, personagens):
+    log("Iniciando processamento de quadros...")
+    quadros = []
+    if not entrada_quadros.strip():
+        log("Nenhum quadro encontrado no arquivo.")
+        return quadros
+
+    # Dividindo o texto em quadros
+    quadros_texto = entrada_quadros.split("\n\nQuadro ")
+    log(f"Total de quadros identificados: {len(quadros_texto)}")
+    for i, quadro_texto in enumerate(quadros_texto, start=1):
+        log(f"Processando Quadro {i}...")
+        linhas = quadro_texto.strip().split('\n')
         estilo, personagens_quadro, descricao, acao_extra = None, [], None, None
 
         for linha in linhas:
-            log(f"{linha}")
-            if 'Desenhe o Quadro' in linha:
+            log(f"Linha processada: {linha}")
+            if linha.startswith('Desenhe o Quadro'):
                 partes = linha.split('no estilo')
                 if len(partes) > 1:
                     estilo = partes[1].split('.')[0].strip()
@@ -68,34 +80,40 @@ def processar_quadros(entrada_quadros, personagens):
                 nomes_personagens = linha.replace('.', '').split(':')[1].split(',')
                 acao_extra = None
                 for nome in nomes_personagens:
-                    nome = nome.split(",")[0].strip()
-                    if nome in personagens:
-                        personagens_quadro.append(nome)
+                    nome_limpo = nome.strip()
+                    if nome_limpo in personagens:
+                        personagens_quadro.append(personagens[nome_limpo])
                     else:
-                        acao_extra = nome  # Captura ação adicional
-                log(f"Personagens do quadro: {', '.join(personagens_quadro)}")
-            elif 'Descrição:' in linha or 'Cenário:' in linha:
+                        acao_extra = nome_limpo  # Captura ação adicional
+                log(f"Personagens do quadro: {', '.join([p.descricao for p in personagens_quadro])}")
+            elif linha.startswith('Descrição:') or linha.startswith('Cenário:'):
                 descricao = linha.split(':')[1].strip()
                 log(f"Descrição/Cenário encontrado: {descricao}")
 
         if estilo and descricao:
-            descricao_completa = f"Desenhe o Quadro {numero_quadro} no estilo {estilo}.\n{descricao}"
-            if acao_extra and acao_extra.strip():
-                descricao_completa += f" {acao_extra.strip()}"
+            descricao_completa = f"Desenhe o Quadro {i} no estilo {estilo}.\n{descricao}"
+            if acao_extra:
+                descricao_completa += f" {acao_extra}"
             descricao_completa += "\n"
-            for nome_personagem in personagens_quadro:
-                descricao_completa += f"{nome_personagem}: {personagens[nome_personagem].descricao}\n"
+            for p in personagens_quadro:
+                descricao_completa += f"{p.descricao}\n"
             quadro = Quadro(estilo, descricao, personagens_quadro, descricao_completa)
             quadros.append(quadro)
-            log(f"Quadro {numero_quadro} processado com sucesso.")
+            log(f"Quadro {i} processado com sucesso.")
         else:
             log(f"Não foi possível criar o quadro. Estilo: {estilo}, Personagens: {personagens_quadro}, Descrição: {descricao}")
             log(quadro_texto)
             sys.exit(1)
 
-        numero_quadro += 1  # Incrementa o número do quadro para o próximo
-
     return quadros
+
+def gerar_saida(quadros):
+    saida = ""
+    for i, quadro in enumerate(quadros):
+        saida += f"{quadro.descricao_completa}"
+        if i < len(quadros) - 1:
+            saida += "\n"
+    return saida.rstrip()
 
 def log(mensagem):
     global primeira_chamada_log
@@ -103,33 +121,6 @@ def log(mensagem):
     with open("log.txt", modo) as arquivo_log:
         arquivo_log.write(mensagem + "\n")
     primeira_chamada_log = False
-
-def gerar_saida(quadros):
-    log("Gerando saída dos quadros processados...")
-    saida = ""
-    if not quadros:
-        log("Nenhum quadro para gerar saída.")
-        return saida
-
-    for i, quadro in enumerate(quadros):
-        saida += f"{quadro.descricao_completa}\n"
-        if quadro.personagens:
-            personagens_incluidos = set()  # Conjunto para evitar duplicações
-            for nome_personagem in quadro.personagens:
-                if nome_personagem not in personagens_incluidos:
-                    personagens_incluidos.add(nome_personagem)
-                    if nome_personagem in personagens:
-                        saida += f"{nome_personagem}: {personagens[nome_personagem].descricao}\n"
-                    else:
-                        # Inclui descrições adicionais dos personagens que não estão no dicionário
-                        saida += f"{nome_personagem}\n"
-        if i < len(quadros) - 1:
-            saida += "\n"  # Adiciona uma linha em branco entre os quadros
-
-    return saida.rstrip()  # Remove espaços em branco extras no final
-
-
-
 
 def ler_arquivo(nome_arquivo):
     try:

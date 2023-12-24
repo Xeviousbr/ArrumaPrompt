@@ -1,3 +1,4 @@
-João: Homem palestino, cerca de 40 anos, cabelos curtos e escuros, barbado. Veste uma camisa desbotada e calças simples. Tem uma expressão preocupada, mas determinada. Seed: 12345.
-Maria: Mulher palestina, grávida, com cerca de 21 anos. Cabelos longos e escuros, amarrados para trás. Veste um vestido simples, um pouco sujo. Mostra sinais de esforço e dor devido ao trabalho de parto. Seed: 23456.
-Soldado: Jovem Israelense soldado, cerca de 25 anos, cabelo curto e loiro. Veste uniforme militar completo, incluindo colete e capacete. Inicialmente, sua expressão é séria e concentrada, mas muda para uma de compaixão ao ver Maria. Seed: 34567.
+Menino: Aproximadamente 6 anos de idade, cabelos loiros curtos, olhos castanhos, vestindo uma camiseta azul simples e shorts cáqui. Após o acidente, aparece com um tapa-olho no olho direito. Seed: 5731.
+Meninos: Meninos, Idades variando entre 9 e 12 anos, vestindo roupas casuais de verão, como camisetas coloridas e shorts. Um deles segura uma vara de pescar feita de taquara. Seed: 4829.
+Mãe: Mulher de aproximadamente 30 anos, cabelos castanhos médios, vestindo uma blusa floral e calça jeans, com uma expressão carinhosa e preocupada. Seed: 3902.
+Medicos: Profissionais de saúde em jalecos brancos, com idades e aparências diversas. Seed: 4178.

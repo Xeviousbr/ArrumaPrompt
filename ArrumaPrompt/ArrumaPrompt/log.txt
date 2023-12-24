@@ -1,24 +1,13 @@
 Iniciando processamento de quadros...
-Quadro 1: 
+Total de quadros identificados: 8
+Processando Quadro 1...
+Linha processada: Quadro 1
+Linha processada: Desenhe o Quadro 1 no estilo Moderno Contemporâneo
+Estilo encontrado: Moderno Contemporâneo
+Linha processada: O narrador começa a descer a escadaria de cimento, que faz uma curva de 90º. O ambiente é tranquilo e ensolarado.
+Linha processada: Menino: Aproximadamente 6 anos de idade, cabelos loiros curtos, olhos castanhos, vestindo uma camiseta azul simples e shorts cáqui. Após o acidente, aparece com um tapa-olho no olho direito. Seed: 5731.
+Não foi possível criar o quadro. Estilo: Moderno Contemporâneo, Personagens: [], Descrição: None
+Quadro 1
 Desenhe o Quadro 1 no estilo Moderno Contemporâneo
-Estilo encontrado: Moderno Contemporâneo
-Cenário: Céu noturno sobre Gaza com mísseis e fumaça de explosões.
-Descrição/Cenário encontrado: Céu noturno sobre Gaza com mísseis e fumaça de explosões.
-Personagens: Não há personagens neste quadro.
-Personagens do quadro: 
-Quadro 1 processado com sucesso.
-Quadro 2: Desenhe o Quadro 2 no estilo Moderno Contemporâneo
-Estilo encontrado: Moderno Contemporâneo
-Cenário: Interior de escombros de um prédio abandonado.
-Descrição/Cenário encontrado: Interior de escombros de um prédio abandonado.
-Personagens: Maria, em trabalho de parto, e João ao seu lado.
-Personagens do quadro: Maria
-Quadro 2 processado com sucesso.
-Quadro 3: Desenhe o Quadro 3 no estilo Moderno Contemporâneo
-Estilo encontrado: Moderno Contemporâneo
-Cenário: Interior escuro, iluminado por uma fraca luz de celular.
-Descrição/Cenário encontrado: Interior escuro, iluminado por uma fraca luz de celular.
-Personagens: João e Maria, com João segurando um celular para iluminar.
-Personagens do quadro: 
-Quadro 3 processado com sucesso.
-Gerando saída dos quadros processados...
+O narrador começa a descer a escadaria de cimento, que faz uma curva de 90º. O ambiente é tranquilo e ensolarado.
+Menino: Aproximadamente 6 anos de idade, cabelos loiros curtos, olhos castanhos, vestindo uma camiseta azul simples e shorts cáqui. Após o acidente, aparece com um tapa-olho no olho direito. Seed: 5731.

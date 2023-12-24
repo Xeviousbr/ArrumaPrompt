@@ -1,12 +1,39 @@
-Quadro 1: 
+Quadro 1
 Desenhe o Quadro 1 no estilo Moderno Contemporâneo
-Cenário: Céu noturno sobre Gaza com mísseis e fumaça de explosões.
-Personagens: Não há personagens neste quadro.
+O narrador começa a descer a escadaria de cimento, que faz uma curva de 90º. O ambiente é tranquilo e ensolarado.
+Menino: Aproximadamente 6 anos de idade, cabelos loiros curtos, olhos castanhos, vestindo uma camiseta azul simples e shorts cáqui. Após o acidente, aparece com um tapa-olho no olho direito. Seed: 5731.
 
-Quadro 2: Desenhe o Quadro 2 no estilo Moderno Contemporâneo
-Cenário: Interior de escombros de um prédio abandonado.
-Personagens: Maria, em trabalho de parto, e João ao seu lado.
+Quadro 2
+Desenhe o Quadro 2 no estilo Moderno Contemporâneo
+Personagens: Menino, Meninos
+Descrição: O grupo de meninos se aproxima do narrador, empolgados com a pescaria. Um deles acena com a vara de pescar.
 
-Quadro 3: Desenhe o Quadro 3 no estilo Moderno Contemporâneo
-Cenário: Interior escuro, iluminado por uma fraca luz de celular.
-Personagens: João e Maria, com João segurando um celular para iluminar.
+Quadro 3
+Desenhe o Quadro 3 no estilo Moderno Contemporâneo
+Personagens: Menino, Meninos
+Descrição: Momento do acidente. A ponta da vara de pescar atinge o olho do narrador. Expressão de dor e surpresa no rosto do narrador.
+
+Quadro 4
+Desenhe o Quadro 4 no estilo Moderno Contemporâneo
+Personagens: Menino, Mãe
+Descrição: A mãe do narrador o encontra caído, com uma expressão de choque e preocupação. Ela o ajuda a se levantar.
+
+Quadro 5
+Desenhe o Quadro 5 no estilo Moderno Contemporâneo
+Personagens: Menino, Mãe, Medicos
+Descrição: No hospital, o narrador está sendo atendido pela equipe médica. Eles aplicam a membrana protetora no olho ferido.
+
+Quadro 6
+Desenhe o Quadro 6 no estilo Moderno Contemporâneo
+Personagens: Menino
+Descrição: O narrador em casa, usando o tapa-olho e olhando pela janela, refletindo sobre o incidente.
+
+Quadro 7
+Desenhe o Quadro 7 no estilo Moderno Contemporâneo
+Personagens: Menino, Medicos
+Descrição: O narrador retorna ao hospital para um acompanhamento, onde uma segunda membrana é aplicada em seu olho.
+
+Quadro 8
+Desenhe o Quadro 8 no estilo Moderno Contemporâneo
+Personagens: Menino
+Descrição: O narrador, agora curado, aprecia a vista de sua cidade, refletindo sobre sua recuperação e agradecendo a medicina moderna.
