@@ -1,13 +1,84 @@
+Lendo entradadas
+Entradas lidas
 Iniciando processamento de quadros...
 Total de quadros identificados: 8
-Processando Quadro 1...
-Linha processada: Quadro 1
-Linha processada: Desenhe o Quadro 1 no estilo Moderno Contemporâneo
-Estilo encontrado: Moderno Contemporâneo
-Linha processada: O narrador começa a descer a escadaria de cimento, que faz uma curva de 90º. O ambiente é tranquilo e ensolarado.
-Linha processada: Menino: Aproximadamente 6 anos de idade, cabelos loiros curtos, olhos castanhos, vestindo uma camiseta azul simples e shorts cáqui. Após o acidente, aparece com um tapa-olho no olho direito. Seed: 5731.
-Não foi possível criar o quadro. Estilo: Moderno Contemporâneo, Personagens: [], Descrição: None
-Quadro 1
-Desenhe o Quadro 1 no estilo Moderno Contemporâneo
-O narrador começa a descer a escadaria de cimento, que faz uma curva de 90º. O ambiente é tranquilo e ensolarado.
-Menino: Aproximadamente 6 anos de idade, cabelos loiros curtos, olhos castanhos, vestindo uma camiseta azul simples e shorts cáqui. Após o acidente, aparece com um tapa-olho no olho direito. Seed: 5731.
+Linha processada: Quadro 1 no estilo Moderno Contemporâneo.
+not estilo
+not personagens_quadro
+not descricao
+Linha processada: Personagens: Menino, Mãe
+not personagens_quadro
+not descricao
+Linha processada: Descrição: Interior da casa de madeira, com a mãe costurando e o Menino olhando pela janela, pensativo.
+not descricao
+Quadro 1 processado com sucesso.
+Linha processada: Quadro 2 no estilo Moderno Contemporâneo.
+not estilo
+not personagens_quadro
+not descricao
+Linha processada: Personagens: Menino
+not personagens_quadro
+not descricao
+Linha processada: Descrição: O Menino saindo de casa à noite, com uma mochila nas costas, olhando para trás com uma expressão de ansiedade e excitação.
+not descricao
+Quadro 2 processado com sucesso.
+Linha processada: Quadro 3 no estilo Moderno Contemporâneo.
+not estilo
+not personagens_quadro
+not descricao
+Linha processada: Personagens: Menino
+not personagens_quadro
+not descricao
+Linha processada: Descrição: Caminhando pelas ruas escuras dos bairros da zona sul de Porto Alegre, explorando com curiosidade.
+not descricao
+Quadro 3 processado com sucesso.
+Linha processada: Quadro 4 no estilo Moderno Contemporâneo.
+not estilo
+not personagens_quadro
+not descricao
+Linha processada: Personagens: Menino
+not personagens_quadro
+not descricao
+Linha processada: Descrição: Menino vendo ao longe a torre do gasômetro, com um brilho nos olhos e uma expressão de determinação.
+not descricao
+Quadro 4 processado com sucesso.
+Linha processada: Quadro 5 no estilo Moderno Contemporâneo.
+not estilo
+not personagens_quadro
+not descricao
+Linha processada: Personagens: Menino
+not personagens_quadro
+not descricao
+Linha processada: Descrição: Início da escalada na torre do gasômetro, com uma expressão de foco e determinação.
+not descricao
+Quadro 5 processado com sucesso.
+Linha processada: Quadro 6 no estilo Moderno Contemporâneo.
+not estilo
+not personagens_quadro
+not descricao
+Linha processada: Personagens: Menino
+not personagens_quadro
+not descricao
+Linha processada: Descrição: Quase alcançando o topo, com a cidade iluminada ao fundo e uma expressão de conquista.
+not descricao
+Quadro 6 processado com sucesso.
+Linha processada: Quadro 7 no estilo Moderno Contemporâneo.
+not estilo
+not personagens_quadro
+not descricao
+Linha processada: Personagens: Menino, Bombeiro
+not personagens_quadro
+not descricao
+Linha processada: Descrição: O bombeiro resgatando o Menino com a escada magirus, mostrando o personagem um pouco chateado, mas seguro.
+not descricao
+Quadro 7 processado com sucesso.
+Linha processada: Quadro 8 no estilo Moderno Contemporâneo.
+not estilo
+not personagens_quadro
+not descricao
+Linha processada: Personagens: Menino, Mãe
+not personagens_quadro
+not descricao
+Linha processada: Descrição: O Menino em casa, assistindo à notícia de sua aventura na televisão, com a mãe ao lado, aliviada e repreendendo-o carinhosamente.
+not descricao
+Quadro 8 processado com sucesso.

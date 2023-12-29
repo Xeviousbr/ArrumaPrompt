@@ -1,4 +1,3 @@
-Menino: Aproximadamente 6 anos de idade, cabelos loiros curtos, olhos castanhos, vestindo uma camiseta azul simples e shorts cáqui. Após o acidente, aparece com um tapa-olho no olho direito. Seed: 5731.
-Meninos: Meninos, Idades variando entre 9 e 12 anos, vestindo roupas casuais de verão, como camisetas coloridas e shorts. Um deles segura uma vara de pescar feita de taquara. Seed: 4829.
-Mãe: Mulher de aproximadamente 30 anos, cabelos castanhos médios, vestindo uma blusa floral e calça jeans, com uma expressão carinhosa e preocupada. Seed: 3902.
-Medicos: Profissionais de saúde em jalecos brancos, com idades e aparências diversas. Seed: 4178.
+Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
+Mãe: Mulher na faixa dos 45 anos, cabelo castanho anos 70, olhos amorosos. Veste um vestido simples, com um avental de costureira e sapatos confortáveis. Trabalhadora, forte, carinhosa e preocupada com o filho. Seed: 43821
+Bombeiro: Homem alto e robusto, uniforme de bombeiro tradicional, capacete e botas. Tem um olhar sério e postura confiante. Corajoso, responsável e parece chateado por ter que trabalhar por causa de um guri. Seed: 76459

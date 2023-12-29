@@ -1,39 +1,31 @@
-Quadro 1
-Desenhe o Quadro 1 no estilo Moderno Contemporâneo
-O narrador começa a descer a escadaria de cimento, que faz uma curva de 90º. O ambiente é tranquilo e ensolarado.
-Menino: Aproximadamente 6 anos de idade, cabelos loiros curtos, olhos castanhos, vestindo uma camiseta azul simples e shorts cáqui. Após o acidente, aparece com um tapa-olho no olho direito. Seed: 5731.
-
-Quadro 2
-Desenhe o Quadro 2 no estilo Moderno Contemporâneo
-Personagens: Menino, Meninos
-Descrição: O grupo de meninos se aproxima do narrador, empolgados com a pescaria. Um deles acena com a vara de pescar.
-
-Quadro 3
-Desenhe o Quadro 3 no estilo Moderno Contemporâneo
-Personagens: Menino, Meninos
-Descrição: Momento do acidente. A ponta da vara de pescar atinge o olho do narrador. Expressão de dor e surpresa no rosto do narrador.
-
-Quadro 4
-Desenhe o Quadro 4 no estilo Moderno Contemporâneo
+Desenhe o Quadro 1 no estilo Moderno Contemporâneo.
 Personagens: Menino, Mãe
-Descrição: A mãe do narrador o encontra caído, com uma expressão de choque e preocupação. Ela o ajuda a se levantar.
+Descrição: Interior da casa de madeira, com a mãe costurando e o Menino olhando pela janela, pensativo.
 
-Quadro 5
-Desenhe o Quadro 5 no estilo Moderno Contemporâneo
-Personagens: Menino, Mãe, Medicos
-Descrição: No hospital, o narrador está sendo atendido pela equipe médica. Eles aplicam a membrana protetora no olho ferido.
-
-Quadro 6
-Desenhe o Quadro 6 no estilo Moderno Contemporâneo
+Desenhe o Quadro 2 no estilo Moderno Contemporâneo.
 Personagens: Menino
-Descrição: O narrador em casa, usando o tapa-olho e olhando pela janela, refletindo sobre o incidente.
+Descrição: O Menino saindo de casa à noite, com uma mochila nas costas, olhando para trás com uma expressão de ansiedade e excitação.
 
-Quadro 7
-Desenhe o Quadro 7 no estilo Moderno Contemporâneo
-Personagens: Menino, Medicos
-Descrição: O narrador retorna ao hospital para um acompanhamento, onde uma segunda membrana é aplicada em seu olho.
-
-Quadro 8
-Desenhe o Quadro 8 no estilo Moderno Contemporâneo
+Desenhe o Quadro 3 no estilo Moderno Contemporâneo.
 Personagens: Menino
-Descrição: O narrador, agora curado, aprecia a vista de sua cidade, refletindo sobre sua recuperação e agradecendo a medicina moderna.
+Descrição: Caminhando pelas ruas escuras dos bairros da zona sul de Porto Alegre, explorando com curiosidade.
+
+Desenhe o Quadro 4 no estilo Moderno Contemporâneo.
+Personagens: Menino
+Descrição: Menino vendo ao longe a torre do gasômetro, com um brilho nos olhos e uma expressão de determinação.
+
+Desenhe o Quadro 5 no estilo Moderno Contemporâneo.
+Personagens: Menino
+Descrição: Início da escalada na torre do gasômetro, com uma expressão de foco e determinação.
+
+Desenhe o Quadro 6 no estilo Moderno Contemporâneo.
+Personagens: Menino
+Descrição: Quase alcançando o topo, com a cidade iluminada ao fundo e uma expressão de conquista.
+
+Desenhe o Quadro 7 no estilo Moderno Contemporâneo.
+Personagens: Menino, Bombeiro
+Descrição: O bombeiro resgatando o Menino com a escada magirus, mostrando o personagem um pouco chateado, mas seguro.
+
+Desenhe o Quadro 8 no estilo Moderno Contemporâneo.
+Personagens: Menino, Mãe
+Descrição: O Menino em casa, assistindo à notícia de sua aventura na televisão, com a mãe ao lado, aliviada e repreendendo-o carinhosamente.
