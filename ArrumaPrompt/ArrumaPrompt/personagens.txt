@@ -1,3 +1,6 @@
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
-Mãe: Mulher na faixa dos 45 anos, cabelo castanho anos 70, olhos amorosos. Veste um vestido simples, com um avental de costureira e sapatos confortáveis. Trabalhadora, forte, carinhosa e preocupada com o filho. Seed: 43821
-Bombeiro: Homem alto e robusto, uniforme de bombeiro tradicional, capacete e botas. Tem um olhar sério e postura confiante. Corajoso, responsável e parece chateado por ter que trabalhar por causa de um guri. Seed: 76459
+Niu: Niu da Matrix. Seed: 1234567890.
+Mofreus: Mofreus do Matrix.
+Triniti: Triniti do Matrix
+Diretor: Homem mais velho, com cabelos grisalhos curtos e óculos de aro preto. Ele veste um terno cinza e uma gravata azul, transmitindo uma aparência autoritária e sábia. O Diretor tem uma postura imponente e um olhar penetrante, demonstrando sua liderança e conhecimento. Seed: 6789054321.
+Oráculo: O Oráculo é uma mulher idosa, com cabelos brancos curtos e um olhar sábio. Ela veste uma túnica roxa e possui um colar com um pingente em forma de olho. O Oráculo tem uma expressão serena e um sorriso acolhedor, transmitindo uma aura de mistério e sabedoria. Seed: 2345678901
+Profeta: O Profeta é um homem de aparência jovem, com cabelos loiros longos e olhos azuis penetrantes. Ele veste vestes brancas e utiliza um cajado com símbolos místicos. O Profeta possui uma expressão serena e um olhar profundo, transmitindo uma conexão com o divino e uma aura de poder espiritual. Seed: 8901234567

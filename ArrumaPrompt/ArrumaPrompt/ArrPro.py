@@ -4,9 +4,14 @@ import sys
 primeira_chamada_log = True
 
 class Personagem:
-    def __init__(self, descricao):
+    def __init__(self, nome, descricao):
+        self.nome = nome
         self.descricao = descricao
-        self.seed = descricao.split("Seed: ")[1]
+        split_descricao = descricao.split("Seed: ")
+        if len(split_descricao) > 1:
+            self.seed = split_descricao[1]
+        else:
+            self.seed = None
       
 class Quadro:
    def __init__(self, estilo, descricao, personagens, descricao_completa):
@@ -16,13 +21,13 @@ class Quadro:
        self.descricao_completa = descricao_completa
 
 def extrair_personagens_do_quadro(linha, personagens_dict):
-    personagens_quadro = {}
+    personagens_quadro = []
     if 'Personagens:' in linha:
         nomes_personagens = linha.split(':')[1].split(',')
         for nome in nomes_personagens:
             nome_limpo = nome.strip()
             if nome_limpo in personagens_dict:
-                personagens_quadro[nome_limpo] = personagens_dict[nome_limpo]
+                personagens_quadro.append(personagens_dict[nome_limpo])
     return personagens_quadro
 
 def processar_quadros(entrada_quadros, personagens):
@@ -35,36 +40,32 @@ def processar_quadros(entrada_quadros, personagens):
     quadros_texto = entrada_quadros.split("Desenhe o ")[1:]  # Ignora a primeira parte vazia
     log(f"Total de quadros identificados: {len(quadros_texto)}")
 
-    for i, quadro_texto in enumerate(quadros_texto, start=1):
+    for quadro_texto in quadros_texto:
         linhas = quadro_texto.strip().split('\n')
         estilo, personagens_quadro, descricao = None, [], None
 
-        for linha in linhas:
+        for i, linha in enumerate(linhas):
             log(f"Linha processada: {linha}")
             if not estilo:
-                log("not estilo")
                 estilo = processar_estilo(linha)
             if not personagens_quadro:
-                log("not personagens_quadro")
                 personagens_quadro = extrair_personagens_do_quadro(linha, personagens)
-            if not descricao:
-                log("not descricao")
-                descricao = processar_descricao(linha)
+            if not descricao and personagens_quadro:
+                descricao = processar_descricao(linhas, i)
 
         if estilo and descricao:
-            descricao_completa = f"Desenhe o Quadro {i} no estilo {estilo}\n{descricao}\n"
-            for nome, p in personagens_quadro.items():
-                descricao_completa += f"{nome}: {p.descricao}\n"
-            descricao_completa = descricao_completa.strip() + "\n\n"  # Adiciona uma linha em branco após os personagens e remove espaços extras
+            descricao_completa = f"Desenhe o Quadro no estilo {estilo}.\n{descricao}\n"
+            for p in personagens_quadro:
+                descricao_completa += f"{p.nome}: {p.descricao}\n"
             quadro = Quadro(estilo, descricao, personagens_quadro, descricao_completa)
             quadros.append(quadro)
-            log(f"Quadro {i} processado com sucesso.")            
+            log(f"Quadro processado com sucesso.")
         else:
             log(f"Não foi possível criar o quadro. Estilo: {estilo}, Personagens: {personagens_quadro}, Descrição: {descricao}")
             log(quadro_texto)
             sys.exit(1)
 
-    return quadros  
+    return quadros
 
 def processar_estilo(linha):
     if 'no estilo' in linha:
@@ -80,13 +81,13 @@ def processar_personagens(entrada_personagens):
         match = re.match(r"([^:]+): (.+)", linha.strip())
         if match:
             nome, descricao = match.groups()
-            personagens[nome] = Personagem(descricao)
+            personagens[nome] = Personagem(nome, descricao)
     return personagens
 
-def processar_descricao(linha):
-    if 'Descrição:' in linha:
-        descricao = linha.split(':')[1].strip()
-        return descricao
+def processar_descricao(linhas, index):
+    # A descrição começa na linha seguinte após "Personagens:"
+    if index < len(linhas) - 1:
+        return linhas[index + 1].strip()
     return None
 
 def encontrar_personagens(nomes_personagens, personagens):
@@ -110,10 +111,10 @@ def encontrar_personagens(nomes_personagens, personagens):
 def gerar_saida(quadros):
     saida = ""
     for i, quadro in enumerate(quadros):
-        saida += f"{quadro.descricao_completa}"
-        # if i < len(quadros) - 1:
-        #     saida += "\n"
-    return saida.rstrip()
+        saida += quadro.descricao_completa
+        if i < len(quadros) - 1:  # Verifica se não é o último quadro
+            saida += "\n"  # Adiciona duas linhas em branco para separar os quadros
+    return saida.rstrip()  # Remove espaços em branco extras no final
 
 def log(mensagem):
     global primeira_chamada_log

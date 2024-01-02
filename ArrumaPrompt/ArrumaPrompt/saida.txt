@@ -1,34 +1,54 @@
-Desenhe o Quadro 1 no estilo Moderno Contemporâneo.
-Interior da casa de madeira, com a mãe costurando e o Menino olhando pela janela, pensativo.
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
-Mãe: Mulher na faixa dos 45 anos, cabelo castanho anos 70, olhos amorosos. Veste um vestido simples, com um avental de costureira e sapatos confortáveis. Trabalhadora, forte, carinhosa e preocupada com o filho. Seed: 43821
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Niu, Mofreus, e Triniti estão em Zion. Niu comenta sobre o retorno à normalidade pós-Matrix 4, Mofreus fala sobre a vigilância constante contra o inimigo, e Triniti, sorrindo, concorda, sugerindo aproveitar a paz momentânea.
+Niu: Niu da Matrix. Seed: 1234567890.
+Mofreus: Mofreus do Matrix.
+Triniti: Triniti do Matrix
 
-Desenhe o Quadro 2 no estilo Moderno Contemporâneo.
-O Menino saindo de casa à noite, com uma mochila nas costas, olhando para trás com uma expressão de ansiedade e excitação.
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Niu está em um sonho, em uma sala branca com o Diretor. O Diretor pede ajuda de Niu contra uma ameaça de seres de outras dimensões, destacando as habilidades únicas de Niu e convidando-o a se juntar à luta.
+Niu: Niu da Matrix. Seed: 1234567890.
+Diretor: Homem mais velho, com cabelos grisalhos curtos e óculos de aro preto. Ele veste um terno cinza e uma gravata azul, transmitindo uma aparência autoritária e sábia. O Diretor tem uma postura imponente e um olhar penetrante, demonstrando sua liderança e conhecimento. Seed: 6789054321.
 
-Desenhe o Quadro 3 no estilo Moderno Contemporâneo.
-Caminhando pelas ruas escuras dos bairros da zona sul de Porto Alegre, explorando com curiosidade.
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Em uma reunião, Oráculo e Profeta alertam Niu sobre a desconfiança no Diretor. Mofreus, irritado, insiste na necessidade de sua ajuda. Triniti, preocupada, questiona a confiabilidade do Diretor. Niu, contemplativo, questiona como garantir que estão do lado certo.
+Niu: Niu da Matrix. Seed: 1234567890.
+Mofreus: Mofreus do Matrix.
+Triniti: Triniti do Matrix
+Niu: Niu da Matrix. Seed: 1234567890.
+Oráculo: O Oráculo é uma mulher idosa, com cabelos brancos curtos e um olhar sábio. Ela veste uma túnica roxa e possui um colar com um pingente em forma de olho. O Oráculo tem uma expressão serena e um sorriso acolhedor, transmitindo uma aura de mistério e sabedoria. Seed: 2345678901
+Profeta: O Profeta é um homem de aparência jovem, com cabelos loiros longos e olhos azuis penetrantes. Ele veste vestes brancas e utiliza um cajado com símbolos místicos. O Profeta possui uma expressão serena e um olhar profundo, transmitindo uma conexão com o divino e uma aura de poder espiritual. Seed: 8901234567
 
-Desenhe o Quadro 4 no estilo Moderno Contemporâneo.
-Menino vendo ao longe a torre do gasômetro, com um brilho nos olhos e uma expressão de determinação.
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Niu, Mofreus e Triniti estão em Zion à noite. Niu expressa dúvidas sobre o convite do Diretor, Mofreus enfatiza a importância da decisão de Niu para o destino da humanidade, e Triniti, apoiando Niu, o encoraja a confiar em si mesmo.
+Niu: Niu da Matrix. Seed: 1234567890.
+Mofreus: Mofreus do Matrix.
+Triniti: Triniti do Matrix
 
-Desenhe o Quadro 5 no estilo Moderno Contemporâneo.
-Início da escalada na torre do gasômetro, com uma expressão de foco e determinação.
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Niu está em seu escritório com seu assistente. O assistente informa sobre uma reunião da diretoria, mas Niu, distraído, pede para ser dispensado. O assistente expressa preocupação, mas Niu, firme, reitera sua ocupação.
+Niu: Niu da Matrix. Seed: 1234567890.
 
-Desenhe o Quadro 6 no estilo Moderno Contemporâneo.
-Quase alcançando o topo, com a cidade iluminada ao fundo e uma expressão de conquista.
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Em outro sonho de Niu, ele se encontra com o Diretor e guerreiros alienígenas em uma paisagem alienígena. O Diretor descreve a ameaça e a necessidade de ação rápida, enquanto Niu, preocupado, questiona a estratégia para vencê-los.
+Niu: Niu da Matrix. Seed: 1234567890.
+Diretor: Homem mais velho, com cabelos grisalhos curtos e óculos de aro preto. Ele veste um terno cinza e uma gravata azul, transmitindo uma aparência autoritária e sábia. O Diretor tem uma postura imponente e um olhar penetrante, demonstrando sua liderança e conhecimento. Seed: 6789054321.
 
-Desenhe o Quadro 7 no estilo Moderno Contemporâneo.
-O bombeiro resgatando o Menino com a escada magirus, mostrando o personagem um pouco chateado, mas seguro.
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
-Bombeiro: Homem alto e robusto, uniforme de bombeiro tradicional, capacete e botas. Tem um olhar sério e postura confiante. Corajoso, responsável e parece chateado por ter que trabalhar por causa de um guri. Seed: 76459
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Niu, Diretor e outros Diretors estão em uma nave espacial. O Diretor revela um plano arriscado envolvendo a vida dos nascidos em Zion para atrair a ameaça, seguido de uma explosão massiva. Todos expressam sua prontidão para o plano.
+Niu: Niu da Matrix. Seed: 1234567890.
+Diretor: Homem mais velho, com cabelos grisalhos curtos e óculos de aro preto. Ele veste um terno cinza e uma gravata azul, transmitindo uma aparência autoritária e sábia. O Diretor tem uma postura imponente e um olhar penetrante, demonstrando sua liderança e conhecimento. Seed: 6789054321.
 
-Desenhe o Quadro 8 no estilo Moderno Contemporâneo.
-O Menino em casa, assistindo à notícia de sua aventura na televisão, com a mãe ao lado, aliviada e repreendendo-o carinhosamente.
-Menino: 7 anos, magro, cabelo loiro curto e olhos expressivos. Usa uma camiseta simples de cor clara, calça jeans desbotada e tênis kichute, velho. Curioso, aventureiro e um pouco impulsivo. Seed: 82513
-Mãe: Mulher na faixa dos 45 anos, cabelo castanho anos 70, olhos amorosos. Veste um vestido simples, com um avental de costureira e sapatos confortáveis. Trabalhadora, forte, carinhosa e preocupada com o filho. Seed: 43821
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Niu e o Diretor estão juntos, com Niu reagindo à proposta arriscada do Diretor. Niu expressa hesitação em condenar a humanidade, enquanto o Diretor destaca a inevitabilidade da escolha, levando Niu a ponderar a situação.
+Niu: Niu da Matrix. Seed: 1234567890.
+Diretor: Homem mais velho, com cabelos grisalhos curtos e óculos de aro preto. Ele veste um terno cinza e uma gravata azul, transmitindo uma aparência autoritária e sábia. O Diretor tem uma postura imponente e um olhar penetrante, demonstrando sua liderança e conhecimento. Seed: 6789054321.
+
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Niu e o Diretor estão na nave espacial. Niu, decidido, aceita participar do plano, mas busca mais informações sobre a ameaça. O Diretor descreve o ser espacial destrutivo, enquanto Niu, preocupado, questiona as chances de sucesso, e o Diretor encoraja a fé na vitória.
+Niu: Niu da Matrix. Seed: 1234567890.
+Diretor: Homem mais velho, com cabelos grisalhos curtos e óculos de aro preto. Ele veste um terno cinza e uma gravata azul, transmitindo uma aparência autoritária e sábia. O Diretor tem uma postura imponente e um olhar penetrante, demonstrando sua liderança e conhecimento. Seed: 6789054321.
+
+Desenhe o Quadro no estilo Moderno Contemporâneo..
+Niu, o Diretor e outros Diretors preparam-se para o plano na nave espacial. O Diretor instrui sobre a conexão e o sacrifício iminente. Niu, resoluto, e os Diretors, preparados, expressam sua prontidão, com o Diretor finalizando com um chamado à coragem.
+Niu: Niu da Matrix. Seed: 1234567890.
+Diretor: Homem mais velho, com cabelos grisalhos curtos e óculos de aro preto. Ele veste um terno cinza e uma gravata azul, transmitindo uma aparência autoritária e sábia. O Diretor tem uma postura imponente e um olhar penetrante, demonstrando sua liderança e conhecimento. Seed: 6789054321.
